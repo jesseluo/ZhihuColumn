@@ -1,0 +1,6 @@
+framework module Pods_ZhihuColumnTests {
+  umbrella header "Pods-ZhihuColumnTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
